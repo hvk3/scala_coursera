@@ -1,0 +1,13 @@
+package week2
+
+object exercise3 {
+	def prod(f: Int => Int)(a: Int, b: Int): Int = {
+		if (a > b) 1
+		else f(a) * prod(f)(a + 1, b)
+	}
+	prod(x => x * x)(3, 4)
+	def factorial(n: Int) = prod(x => x)(1, n)
+	factorial(5)
+
+	def mapReduce(f: Int => Int, combine: (Int, Int) => Int, acc: Int)
+}

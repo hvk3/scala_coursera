@@ -1,0 +1,388 @@
+2016-07-15 23:54:14,435  WARN [Thread-6] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:54:14,437  WARN [Thread-6] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:54:20,855  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for forcomp, setting default to 2.11.
+2016-07-15 23:54:20,856  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for forcomp, setting default to 2.11.
+2016-07-15 23:54:21,236  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:54:21,238  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:54:27,082  WARN [Worker-0] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:54:27,082  WARN [Worker-0] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:54:27,127  WARN [Worker-0] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:54:27,127  WARN [Worker-0] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:54:28,853 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-15 23:54:28,873 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-15 23:54:28,875 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-15 23:54:35,203  WARN [Worker-14] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:54:35,203  WARN [Worker-14] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:54:36,253  WARN [Worker-10] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:54:36,254  WARN [Worker-10] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:54:45,149  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:54:45,149  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:54:46,230  WARN [Worker-10] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:54:46,230  WARN [Worker-10] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:54:49,418  WARN [Worker-5] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:54:49,418  WARN [Worker-5] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:54:51,845 ERROR [Worker-2] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 143
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  
+
+2016-07-15 23:54:54,674  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:54:54,674  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:54:55,862  WARN [Worker-1] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:54:55,863  WARN [Worker-1] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:55:02,370  WARN [Worker-14] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:55:02,370  WARN [Worker-14] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:55:03,400  WARN [Worker-6] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:55:03,400  WARN [Worker-6] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:56:03,911  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:56:03,911  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:56:04,940  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:56:04,940  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:56:18,099  WARN [Worker-10] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:56:18,099  WARN [Worker-10] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:56:19,177  WARN [Worker-15] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:56:19,177  WARN [Worker-15] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:58:06,040  WARN [Worker-14] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:58:06,040  WARN [Worker-14] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:58:07,114  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:58:07,114  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:59:00,137  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:59:00,137  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-15 23:59:01,200  WARN [Worker-7] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-15 23:59:01,200  WARN [Worker-7] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:00:32,697  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:00:32,697  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:00:33,727  WARN [Worker-7] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:00:33,727  WARN [Worker-7] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:00:47,205  WARN [Worker-5] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:00:47,205  WARN [Worker-5] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:00:48,228  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:00:48,228  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:00:57,270  WARN [Worker-19] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:00:57,270  WARN [Worker-19] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:00:58,346  WARN [Worker-0] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:00:58,346  WARN [Worker-0] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:09:19,738  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:09:19,739  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:09:31,155  WARN [Worker-2] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:09:31,156  WARN [Worker-2] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:09:31,439  WARN [bundle-1058-ActorSystem-akka.actor.default-dispatcher-8] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:09:31,440  WARN [bundle-1058-ActorSystem-akka.actor.default-dispatcher-8] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:09:33,171  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:09:33,171  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:10:05,214  WARN [Worker-2] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:10:05,214  WARN [Worker-2] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:10:05,375  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:10:05,375  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:10:21,005  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:10:21,005  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:10:27,670  WARN [Worker-7] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:10:27,670  WARN [Worker-7] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:10:27,844 ERROR [Worker-0] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class week3.rationals, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2016-07-16 00:10:28,743  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:10:28,743  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:10:52,537  WARN [Worker-8] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:10:52,537  WARN [Worker-8] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:10:53,581  WARN [Worker-2] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:10:53,581  WARN [Worker-2] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:11:02,759  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:11:02,760  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:11:03,785  WARN [Worker-11] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:11:03,785  WARN [Worker-11] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:13:07,433  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:13:07,433  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:13:08,505  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:13:08,506  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:13:11,817  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:13:11,817  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:13:12,893  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:13:12,893  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:14:34,405  WARN [Worker-2] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:14:34,406  WARN [Worker-2] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:14:35,490  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:14:35,490  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:14:50,718  WARN [Worker-8] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:14:50,718  WARN [Worker-8] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:14:51,762  WARN [Worker-14] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:14:51,762  WARN [Worker-14] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:14:57,951  WARN [Worker-4] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:14:57,951  WARN [Worker-4] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:15:11,654  WARN [Worker-2] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:15:11,654  WARN [Worker-2] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:15:12,702  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:15:12,702  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:15:15,077  WARN [Worker-7] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:15:15,077  WARN [Worker-7] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:15:16,086  WARN [Worker-8] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:15:16,087  WARN [Worker-8] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:16:05,150  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:16:05,150  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:16:06,176  WARN [Worker-4] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:16:06,176  WARN [Worker-4] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:16:46,232  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:16:46,232  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:16:47,300  WARN [Worker-17] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:16:47,300  WARN [Worker-17] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:16:58,850  WARN [Worker-11] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:16:58,850  WARN [Worker-11] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:16:59,920  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:16:59,920  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:18:01,916  WARN [Worker-17] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:18:01,916  WARN [Worker-17] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:18:05,983  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:18:05,984  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:18:13,163  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:18:13,163  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:18:34,324  WARN [Worker-1] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:18:34,324  WARN [Worker-1] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:18:34,473  WARN [Worker-8] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:18:34,473  WARN [Worker-8] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:18:43,530  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:18:43,530  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:18:44,554  WARN [Worker-11] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:18:44,554  WARN [Worker-11] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:18:48,496  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:18:48,497  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:18:49,509  WARN [Worker-2] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:18:49,509  WARN [Worker-2] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:19:00,299  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:19:00,300  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:19:01,369  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:19:01,369  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:19:20,509  WARN [Worker-4] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:19:20,509  WARN [Worker-4] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:19:21,532  WARN [Worker-4] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:19:21,533  WARN [Worker-4] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:20:12,858  WARN [Worker-1] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:20:12,858  WARN [Worker-1] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:20:24,940  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:20:24,940  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:20:25,962  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:20:25,963  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:20:35,449  WARN [Worker-7] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:20:35,449  WARN [Worker-7] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:20:36,469  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:20:36,469  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:20:53,271  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:20:53,271  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:20:54,306  WARN [Worker-14] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:20:54,306  WARN [Worker-14] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:21:11,374  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:21:11,374  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:21:12,390  WARN [Worker-11] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:21:12,391  WARN [Worker-11] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:21:17,761  WARN [Worker-4] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:21:17,761  WARN [Worker-4] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:21:18,772  WARN [Worker-4] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:21:18,772  WARN [Worker-4] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:22:08,182  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:22:08,182  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:22:20,425  WARN [Worker-11] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:22:20,425  WARN [Worker-11] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:22:21,463  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:22:21,463  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:22:51,281  WARN [Worker-17] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:22:51,281  WARN [Worker-17] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:22:52,298  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:22:52,299  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:23:10,836  WARN [Worker-0] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:23:10,836  WARN [Worker-0] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:23:11,859  WARN [Worker-0] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:23:11,859  WARN [Worker-0] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:24:32,307  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:24:32,308  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:24:33,384  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:24:33,384  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:24:51,506  WARN [Worker-11] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:24:51,507  WARN [Worker-11] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:24:52,583  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:24:52,584  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:25:02,398  WARN [Worker-8] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:25:02,398  WARN [Worker-8] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:25:03,416  WARN [Worker-4] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:25:03,417  WARN [Worker-4] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:25:07,173  WARN [Worker-7] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:25:07,173  WARN [Worker-7] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:25:08,217  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:25:08,217  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:25:30,761  WARN [Worker-14] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:25:30,761  WARN [Worker-14] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:25:32,181  WARN [Worker-0] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:25:32,181  WARN [Worker-0] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:25:40,739  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:25:40,739  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:25:41,764  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:25:41,764  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:25:44,983  WARN [Worker-8] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:25:44,983  WARN [Worker-8] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:25:46,055  WARN [Worker-4] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:25:46,056  WARN [Worker-4] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:26:05,646  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:26:05,646  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:26:06,675  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:26:06,675  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:26:33,037  WARN [Worker-17] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:26:33,037  WARN [Worker-17] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:26:34,058  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:26:34,058  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:26:39,603  WARN [Worker-1] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:26:39,604  WARN [Worker-1] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:26:40,624  WARN [Worker-11] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:26:40,624  WARN [Worker-11] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:27:19,161  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:27:19,161  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:27:20,229  WARN [Worker-0] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:27:20,229  WARN [Worker-0] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:27:37,671  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:27:37,672  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:27:40,730  WARN [Worker-8] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:27:40,731  WARN [Worker-8] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:27:41,796  WARN [Worker-17] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:27:41,796  WARN [Worker-17] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:27:46,087  WARN [Worker-11] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:27:46,087  WARN [Worker-11] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:28:54,696  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:28:54,696  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:28:55,764  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:28:55,764  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:29:00,150  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:29:00,150  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:29:01,207  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:29:01,207  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:29:18,668  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:29:18,668  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:29:19,741  WARN [Worker-7] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:29:19,741  WARN [Worker-7] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:29:31,501  WARN [Worker-1] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:29:31,501  WARN [Worker-1] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:29:32,568  WARN [Worker-11] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:29:32,568  WARN [Worker-11] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:30:55,086  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:30:55,086  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:30:56,154  WARN [Worker-4] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:30:56,154  WARN [Worker-4] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:31:26,196  WARN [Worker-14] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:31:26,196  WARN [Worker-14] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:31:27,216  WARN [Worker-1] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:31:27,217  WARN [Worker-1] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:31:51,227  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:31:51,227  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:31:51,941 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-16 00:31:51,942 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-16 00:32:15,235  WARN [Worker-17] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:32:15,235  WARN [Worker-17] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:32:16,306  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:32:16,307  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:32:36,730  WARN [Worker-8] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:32:36,730  WARN [Worker-8] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:32:37,825  WARN [Worker-0] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:32:37,825  WARN [Worker-0] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:34:51,634  WARN [Worker-14] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:34:51,634  WARN [Worker-14] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:35:13,589  WARN [Worker-4] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:35:13,590  WARN [Worker-4] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:35:14,656  WARN [Worker-8] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:35:14,656  WARN [Worker-8] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:35:40,856  WARN [Worker-7] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:35:40,856  WARN [Worker-7] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:35:41,929  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:35:41,929  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:36:11,848  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:36:11,848  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:36:12,915  WARN [Worker-14] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:36:12,916  WARN [Worker-14] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:36:24,248  WARN [Worker-14] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:36:24,249  WARN [Worker-14] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:36:25,317  WARN [Worker-14] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:36:25,318  WARN [Worker-14] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:36:32,367  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:36:32,367  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:36:33,428  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:36:33,428  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:38:05,933  WARN [Worker-8] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:38:05,933  WARN [Worker-8] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:38:07,002  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:38:07,002  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:38:09,295  WARN [Worker-14] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:38:09,295  WARN [Worker-14] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:38:10,314  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:38:10,314  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:38:31,388  WARN [Worker-14] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:38:31,388  WARN [Worker-14] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:38:32,456  WARN [Worker-7] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:38:32,456  WARN [Worker-7] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:38:39,528  WARN [Worker-2] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:38:39,529  WARN [Worker-2] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:38:40,594  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:38:40,594  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:38:46,227  WARN [Worker-1] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:38:46,227  WARN [Worker-1] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:38:47,242  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:38:47,243  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:38:50,754  WARN [Worker-1] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:38:50,754  WARN [Worker-1] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:38:51,823  WARN [Worker-8] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:38:51,824  WARN [Worker-8] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:45:29,381  WARN [Worker-21] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:45:29,381  WARN [Worker-21] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:45:30,396  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:45:30,396  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:46:16,279  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:46:16,280  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:46:17,349  WARN [Worker-2] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:46:17,349  WARN [Worker-2] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:46:28,286  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:46:28,286  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:46:29,302  WARN [Worker-9] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:46:29,302  WARN [Worker-9] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:52:00,582  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:52:00,582  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:52:00,732  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:52:00,733  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:52:07,900  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:52:07,900  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:52:08,966  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:52:08,966  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:52:17,584  WARN [Worker-2] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:52:17,584  WARN [Worker-2] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:52:18,650  WARN [Worker-1] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:52:18,650  WARN [Worker-1] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:52:42,070  WARN [Worker-1] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:52:42,070  WARN [Worker-1] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:52:43,096  WARN [Worker-17] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:52:43,097  WARN [Worker-17] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:53:03,811  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:53:03,811  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:53:04,883  WARN [Worker-1] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:53:04,884  WARN [Worker-1] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:53:09,463  WARN [Worker-1] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:53:09,463  WARN [Worker-1] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:53:10,477  WARN [Worker-20] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:53:10,477  WARN [Worker-20] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:53:25,635  WARN [Worker-2] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:53:25,635  WARN [Worker-2] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:53:26,656  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:53:26,656  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:53:34,482  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:53:34,482  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:53:35,578  WARN [Worker-8] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:53:35,579  WARN [Worker-8] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:54:23,709  WARN [Worker-12] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:54:23,709  WARN [Worker-12] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 00:54:24,777  WARN [Worker-0] - ScalaProject - Project progfun has platform default sourceLevel.
+2016-07-16 00:54:24,778  WARN [Worker-0] - ScalaProject - Project progfun runs on platform default installation.
+2016-07-16 17:31:49,675 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-16 17:31:49,675 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-16 17:31:49,675 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-07-16 17:31:49,675 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException

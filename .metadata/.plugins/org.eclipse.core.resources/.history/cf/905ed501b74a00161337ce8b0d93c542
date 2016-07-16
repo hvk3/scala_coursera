@@ -1,0 +1,7 @@
+package week2
+
+import math.abs
+
+object fixed_points {
+  val tolerance = 0.00001
+}

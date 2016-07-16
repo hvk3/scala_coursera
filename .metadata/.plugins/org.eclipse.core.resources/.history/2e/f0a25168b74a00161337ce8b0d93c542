@@ -1,0 +1,11 @@
+package week2
+
+import math.abs
+
+object fixed_points {
+	val tolerance = 0.00001 //> tolerance  : Double = 1.0E-5
+	def isCloseEnough(x: Double, y: Double) =
+		abs((x - y) / x) < tolerance //> isCloseEnough: (x: Double, y: Double)Boolean
+	def fixedPoint(f: Double => Double)(firstGuess: Double) =
+	
+}

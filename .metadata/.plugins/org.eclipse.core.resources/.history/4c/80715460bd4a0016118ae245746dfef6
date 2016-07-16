@@ -1,0 +1,22 @@
+package week3
+
+object rationals {
+	val x = new Rational(1, 2)                //> x  : week3.Rational = 1/2
+	val y = new Rational(2, 3)                //> y  : week3.Rational = 2/3
+	x.add(y)                                  //> res0: week3.Rational = 7/6
+}
+
+class Rational(x: Int, y: Int) {
+	def numer = x
+	def denom = y
+
+	def gcd(a: Int, b: Int): Int =
+		if (b == 0) a
+		else gcd(b, a % b)
+
+	def add(that: Rational) = {
+		val g = gcd(numer * that.denom + denom * that.numer, denom * that.denom)
+		new Rational((numer * that.denom + denom * that.numer) / g, (denom * that.denom) / g)
+	}
+	override def toString = numer + "/" + denom
+}

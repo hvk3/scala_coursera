@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/hvk/Desktop/online courses/functional programming scala/assignments/patmat"/>
+			<item value="/home/hvk/Desktop/online courses/functional programming scala/assignments/objsets"/>
+			<item value="/home/hvk/Desktop/online courses/functional programming scala/assignments/funsets"/>
+			<item value="/home/hvk/Desktop/online courses/functional programming scala/assignments/forcomp"/>
+			<item value="/home/hvk/Desktop/online courses/functional programming scala/assignments/recfun"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="FunSetSuite" project="funsets" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="funsets.FunSetSuite" time="0.112">
+    <testcase name="contains is implemented" classname="funsets.FunSetSuite" time="0.045"/>
+    <testcase name="singletonSet(1) contains 1" classname="funsets.FunSetSuite" time="0.03"/>
+    <testcase name="union contains all elements of each set" classname="funsets.FunSetSuite" time="0.036"/>
+  </testsuite>
+</testrun>
