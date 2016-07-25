@@ -1,0 +1,4 @@
+object scratch {
+  q = new week3.Rational(2, 3)
+  p = new week3.Rational(1, 2)
+}

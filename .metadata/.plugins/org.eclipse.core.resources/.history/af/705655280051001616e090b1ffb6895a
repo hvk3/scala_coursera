@@ -1,0 +1,5 @@
+from week3 import Rational
+
+object scratch {
+	
+}

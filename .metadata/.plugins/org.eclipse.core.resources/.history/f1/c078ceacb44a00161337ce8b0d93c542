@@ -1,7 +1,0 @@
-package week2
-
-object exercise3 {
-  def prod(f: Int => Int)(a: Int, b: Int): Int = {
-  	def loop(
-  }
-}

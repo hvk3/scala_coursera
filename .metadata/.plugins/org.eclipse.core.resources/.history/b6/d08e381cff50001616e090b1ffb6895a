@@ -1,0 +1,7 @@
+package scratch
+import week3._
+
+object scratch {
+  println("Welcome to the Scala worksheet")
+  new week3Rational(1, 2)
+}

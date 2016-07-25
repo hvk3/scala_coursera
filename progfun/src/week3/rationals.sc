@@ -1,15 +1,5 @@
 package week3
 
-object rationals {
-	val x = new Rational(1, 3)                //> x  : week3.Rational = 1/3
-	val y = new Rational(5, 7)                //> y  : week3.Rational = 5/7
-	val z = new Rational(3, 2)                //> z  : week3.Rational = 3/2
-	x - y - z                                 //> res0: week3.Rational = -79/42
-	y + y                                     //> res1: week3.Rational = 10/7
-	x < y                                     //> res2: Boolean = true
-	x max y                                   //> res3: week3.Rational = 5/7
-}
-
 class Rational(x: Int, y: Int) {
 	require(y != 0, "Denominator cannot be zero")
 	private def gcd(a: Int, b: Int): Int =
@@ -36,4 +26,14 @@ class Rational(x: Int, y: Int) {
 		val g = gcd(x, y)
 		numer / g + "/" + denom / g
 	}
+}
+
+object rationals {
+	val x = new Rational(1, 3)                //> x  : week3.Rational = 1/3
+	val y = new Rational(5, 7)                //> y  : week3.Rational = 5/7
+	val z = new Rational(3, 2)                //> z  : week3.Rational = 3/2
+	x - y - z                                 //> res0: week3.Rational = -79/42
+	y + y                                     //> res1: week3.Rational = 10/7
+	x < y                                     //> res2: Boolean = true
+	x max y                                   //> res3: week3.Rational = 5/7
 }

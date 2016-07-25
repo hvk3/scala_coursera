@@ -1,0 +1,6 @@
+package week3
+
+object scratch {
+	val x = new Rational(1, 2) 
+	println("hey there")                      //> hey there
+}

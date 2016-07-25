@@ -1,0 +1,5 @@
+package week3
+
+object scratch {
+	println("hey there")                      //> hey there
+}

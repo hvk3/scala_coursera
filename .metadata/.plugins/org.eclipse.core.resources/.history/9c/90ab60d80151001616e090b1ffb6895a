@@ -1,0 +1,7 @@
+package week3
+
+object scratch {
+	val x = new Rational(1, 2)
+	x.numer
+	def error(msg: String) = throw new Error(msg)
+}

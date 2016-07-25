@@ -1,0 +1,5 @@
+import _root_week3.Rational
+
+object scratch {
+	new week3.Rational(1, 2)	
+}
